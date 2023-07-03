@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:'Oswald';
+    background-color: #F5EBE0;
+    color: #655247;
+    font-style: bold;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 30px;
+    display:inline-flex;
+    gap: 10px;
+}
+
+header{
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+
+header p{
+    margin-top: 0;
+    text-align: center;
+    font-style: bold;
+    font-size: 40px;
+}
+
+
+h3{
+    color: black;
+    padding: 30px;
+    font-size: 35px;
+}
+
+main p{
+    color: black;
+    padding: 30px;
+}
+
+.evi{
+    float: left;
+    padding: 10px;
+}
+
+main img{
+    max-width: 20%;
+}
+
+.laboca{
+    padding-left: 310px;
+}
+
+.laboca2{
+    padding-left: 310px;
+    max-width: 60%;
+}
+
+footer{
+    padding: 3%;
+    margin-bottom: auto;
+    background-color: #D5BDAF;
+}
+
+footer p{
+    margin-left: 300px;
+    font-size: 20px;
+    display:inline-block;
+    text-align: center;
+    color: #655247;
+}
